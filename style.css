@@ -1,0 +1,35 @@
+.mason {
+    font-family;Brushstroke, fantasy; ;
+    font-size: 60px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color:white;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: capitalize;
+    position: relative;left: 50px;
+    }
+
+
+
+
+
+
+.albert:before {
+content: '';
+animation: animate infinite 8s;
+font-size: 100px;
+}
+@keyframes animate {
+    0%{content: 'Team Work';}
+    25%  {content: 'mission';}
+    50%  {content: 'Integrity';}
+    75%  {content: 'vision';}
+    100%  {content: 'integunnity';}
+    
+  }
+  .lima
+  {
+      position: relative;right: 30px;
+
+  }
